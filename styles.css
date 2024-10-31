@@ -1,0 +1,17 @@
+.satu {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: #6B8E23;
+    top: 20px;
+    left: 20px;
+}
+
+.dua {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: #9b59b6;
+    top: 20px;
+    left: 20px;
+}
